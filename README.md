@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @howard-bry
+-### Hello, im Howard
+
+ 👋 Hi, I’m @howard-bry
 - 👀 I’m interested in Data Science and coding
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
