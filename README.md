@@ -1,4 +1,4 @@
--### Hello, im Howard
+### Hello, i'm Howard
 
  👋 Hi, I’m @howard-bry
 - 👀 I’m interested in Data Science and coding
